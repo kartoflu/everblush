@@ -33,7 +33,7 @@ AKA installing directly, useful for themes that are not submitted to the server.
 ## Plugin Configurations
 
 ### Themer (Required)
-  - Transparency mode - `Chat`
+  - Transparency mode - `None`
   - Custom font - `Enabled`
 
 > [!NOTE]
