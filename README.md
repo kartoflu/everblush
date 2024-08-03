@@ -16,7 +16,7 @@
 
 ## Usage
 
-### a - Using Themer installer
+### a - Using Themer
 The conventional way to install themes. Make sure to join the [Aliucord server](https://discord.gg/EsNDvBaHVU) before following these instructions.
 
 1. Go to `#themes` and search for this theme
