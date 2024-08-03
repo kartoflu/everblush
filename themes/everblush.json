@@ -3,7 +3,8 @@
         "author": "Komette",
         "name": "Everblush",
         "version": "1.0.0",
-        "license": "MIT"
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/everblush\/main\/themes\/everblush.json"
     },
     "background": {},
     "fonts": {
