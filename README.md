@@ -1,13 +1,13 @@
 ![title](previews/title.png)
 
 > [!NOTE]
-> This theme is only compatible with Aliucord.
+> This theme was created using the [Everblush colorscheme.](https://github.com/Everblush/everblush) Only compatible with Aliucord.
 
 ## Required Plugins
 - [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer)
 - Optional plugins: BetterChatbox, NoBurnIn, LayoutController
 
-## What's new? ( -  - 2024)
+## What's new? (Aug 04, 2024)
 
 ### 1.0.0
 - Initial release
