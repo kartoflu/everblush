@@ -24,7 +24,7 @@ The conventional way to install themes. Make sure to join the [Aliucord server](
 3. Open Themer settings (`User settings` > `Plugins` > `Themer`) and enable the theme.
 
 ### b - Sideloading
-AKA installing directly, useful for themes that are not submitted to the server.
+AKA installing manually, useful for themes that are not submitted to the server.
 
 1. Download the zip file of this repo ( `Code` > `Download ZIP`)
 2. Unzip it, move all contents under `themes` to `Internal Storage/Aliucord/themes`
